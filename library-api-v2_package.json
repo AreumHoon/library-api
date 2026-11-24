@@ -1,0 +1,16 @@
+{
+  "name": "library-management-api",
+  "version": "1.0.0",
+  "description": "NodeJS Express 기반 도서관리 프로그램 REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
